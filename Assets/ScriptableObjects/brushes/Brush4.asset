@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0138aff214f39fe42be8de53262c6fc6, type: 3}
+  m_Name: Brush4
+  m_EditorClassIdentifier: 
+  brushSprite: {fileID: 21300000, guid: db57546b5194deb4b919bba62de9f8af, type: 3}
+  brushTexture: {fileID: 2800000, guid: 2149ef2e7b89ab44f86b0e4fdc25d871, type: 3}
